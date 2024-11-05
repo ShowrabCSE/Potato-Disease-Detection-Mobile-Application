@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Potato Plant Disease Detection</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="take_picture">Take Picture</string>
+</resources>
